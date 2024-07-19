@@ -8,23 +8,11 @@ This project is a simple movie theater webpage that displays the details of movi
 - Display the first movie's details (poster, title, runtime, showtime, and available tickets) when the page loads.
 - Show a list of all movies on the left side of the page.
 - Update movie details when a movie in the list is clicked.
-- Allow users to "buy" tickets by clicking a button, which decreases the number of available tickets on the frontend.
-
-## Endpoints
-
-- `GET /films/1`: Retrieve the details of the first movie.
-- `GET /films`: Retrieve a list of all movies.
-
-# Example Responses
-
-# GET /films/1
-
-jsoLicense
+- Allow users to "buy" tickets by clicking a button, which decreases the numbeer
 
 This project is licensed under the MIT License.
 
-link:
+## link:
 https://main--isaacweek3codechaalenge.netlify.app/
 
 https://isaac-odhiambo.github.io/host_api/db.json
-
