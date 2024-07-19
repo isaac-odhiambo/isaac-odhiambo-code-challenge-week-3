@@ -22,9 +22,11 @@ This project is a simple movie theater webpage that displays the details of movi
 ```json
 
 ## License
+
 This project is licensed under the MIT License.
+
 link:
 https://main--isaacweek3codechaalenge.netlify.app/
 
-http://localhost:3000/films
+https://github.com/isaac-odhiambo/host_api/blob/main/db.json
 
