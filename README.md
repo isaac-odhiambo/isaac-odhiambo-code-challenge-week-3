@@ -30,3 +30,5 @@ https://main--isaacweek3codechaalenge.netlify.app/
 
 https://github.com/isaac-odhiambo/host_api/blob/main/db.json
 
+https://isaac-odhiambo.github.io/host_api/
+
