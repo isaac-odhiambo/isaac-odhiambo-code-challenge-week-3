@@ -15,20 +15,16 @@ This project is a simple movie theater webpage that displays the details of movi
 - `GET /films/1`: Retrieve the details of the first movie.
 - `GET /films`: Retrieve a list of all movies.
 
-## Example Responses
+# Example Responses
 
-### GET /films/1
+# GET /films/1
 
-```json
-
-## License
+jsoLicense
 
 This project is licensed under the MIT License.
 
 link:
 https://main--isaacweek3codechaalenge.netlify.app/
 
-https://github.com/isaac-odhiambo/host_api/blob/main/db.json
-
-https://isaac-odhiambo.github.io/host_api/
+https://isaac-odhiambo.github.io/host_api/db.json
 
