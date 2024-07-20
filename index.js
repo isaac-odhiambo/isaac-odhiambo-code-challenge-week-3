@@ -1,8 +1,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // URLs of the endpoints to fetch movie data
-    const filmsUrl = 'http://localhost:3000/films';
-    const filmUrl = 'http://localhost:3000/films/1';  // Replace with the actual endpoint URL
+    const filmsUrl = 'https://challange3-three.vercel.app/films';
+     // Replace with the actual endpoint URL
 
     // Function to fetch and display the first movie's details
     async function fetchFirstMovie() {

@@ -15,4 +15,3 @@ This project is licensed under the MIT License.
 ## link:
 https://main--isaacweek3codechaalenge.netlify.app/
 
-https://isaac-odhiambo.github.io/host_api/db.json
