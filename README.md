@@ -13,5 +13,5 @@ This project is a simple movie theater webpage that displays the details of movi
 This project is licensed under the MIT License.
 
 ## link:
-https://main--isaacweek3codechaalenge.netlify.app/
+https://isaac-odhiambo-code-challenge-week-3.vercel.app/
 
