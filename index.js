@@ -1,12 +1,13 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // URLs of the endpoints to fetch movie data
-      // Replace with the actual endpoint URL
-const appUrl = 'https://challange3-three.vercel.app/films'
+    const filmsUrl = 'https://challange3-three.vercel.app/films';
+    const filmUrl = 'https://challange3-three.vercel.app/films/1';  // Replace with the actual endpoint URL
+
     // Function to fetch and display the first movie's details
     async function fetchFirstMovie() {
         try {
-            const response = await fetch(appUrl);
+            const response = await fetch(filmUrl);
             const movie = await response.json();
 
             // Calculate available tickets
@@ -26,7 +27,7 @@ const appUrl = 'https://challange3-three.vercel.app/films'
     // Function to fetch and display the list of movies
     async function fetchMovies() {
         try {
-            const response = await fetch(`${appUrl}/${id}`);
+            const response = await fetch(filmsUrl);
             const movies = await response.json();
             
             const filmsList = document.getElementById('films');
